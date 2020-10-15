@@ -105,6 +105,49 @@ namespace Test
             Console.WriteLine("Привильных ответов: {0}", count);
             Console.WriteLine("Привильных ответов:" + count);
             //старые варианты "$"
+
+            Console.WriteLine("Решите пример: 5 + 2");
+            string text6 = Console.ReadLine();
+            int x6 = Convert.ToInt32(text6);
+            if (x6 == 7) 
+            {
+                Console.WriteLine("Это правильный ответ");
+            }
+            else
+            {
+                Console.WriteLine("Перерешай, ответ - говно");
+            }
+            Console.ReadKey();
+            // не очень понятно как присваюваются переменные строк 110 и 111
+
+            Console.WriteLine("Решите пример: 2 + 2 * 2");
+            string text7 = Console.ReadLine();
+            int x7 = Convert.ToInt32(text7);
+            if (x7 == 6)
+            {
+                Console.WriteLine("Угадал!");
+            }    
+            
+            else
+            {
+                Console.WriteLine("Неверно, учитывая то, что это уровень первого класса!");
+            }
+            Console.ReadKey();
+
+            Console.WriteLine("Угадайте или решите уравнение: 11 * 11");
+            string text8 = Console.ReadLine();
+            int x8 = Convert.ToInt32(text8);
+            if (x8 == 121) 
+            {
+                Console.WriteLine("Йопта! Да ты умница");
+            }
+            else
+            {
+                Console.WriteLine("Ты туп, как полено! Неверно!");
+            }
+            Console.WriteLine($"Привильных ответов: {count}");
+            Console.ReadKey();
+
         }
     }
 }

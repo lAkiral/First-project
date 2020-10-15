@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akira\\source\\repos\\First-project\\Test\\Test\\Test.csproj": {}
+    "C:\\Users\\Akira\\Source\\Repos\\First-project\\Test\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akira\\source\\repos\\First-project\\Test\\Test\\Test.csproj": {
+    "C:\\Users\\Akira\\Source\\Repos\\First-project\\Test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akira\\source\\repos\\First-project\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Akira\\Source\\Repos\\First-project\\Test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\Akira\\source\\repos\\First-project\\Test\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\Akira\\Source\\Repos\\First-project\\Test\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Akira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akira\\source\\repos\\First-project\\Test\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Akira\\Source\\Repos\\First-project\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Akira\\AppData\\Roaming\\NuGet\\NuGet.Config",
